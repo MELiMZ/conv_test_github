@@ -1,5 +1,5 @@
 # Dockerfile
-FROM python:3.9-slim
+FROM registry.cn-beijing.aliyuncs.com/acs-sample/python:3.9-slim
 
 WORKDIR /app
 
